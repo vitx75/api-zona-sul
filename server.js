@@ -18,7 +18,7 @@ app.post("/send", async (req, res) => {
 
     const msg = {
         to: to,
-        from: "zonalesteroleplay@outlook.com",
+        from: "zonasulroleplay@outlook.com",
         subject: subject,
         text: message,
         html: html,
